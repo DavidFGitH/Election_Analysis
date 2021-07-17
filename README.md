@@ -11,6 +11,8 @@ The purpose of the project was to perform an election audit by taking the data o
 
 ## Election-Audit Results
 
+![Election Audit Results](https://github.com/DavidFGitH/Election_Analysis/blob/main/Resources/Terminal%20Output.png)
+
 - A total of 369,711 votes were cast in this election.
 
 - Jefferson county had 38,855 votes which accounted for 10.5% of the votes. Denver county had 306,055 votes which accounted for 82.8% of the vote. Finally Arapahoe county had 24,801 votes with 6.7% of the votes.
